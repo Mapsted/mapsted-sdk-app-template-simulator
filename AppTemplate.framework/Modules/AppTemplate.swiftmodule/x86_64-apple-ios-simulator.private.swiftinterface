@@ -137,6 +137,11 @@ extension AppTemplate.LaunchViewController : MapstedTriggersCore.MapstedNotifica
   @_Concurrency.MainActor(unsafe) public func navigateToMap(homeEntities: [MapstedCore.HomeEntity])
   @_Concurrency.MainActor(unsafe) public func openWebsite(websiteURL: Swift.String) -> Swift.Bool
 }
+extension AppTemplate.LaunchViewController : MapstedTriggersCore.MarketingBannerActionDelegate {
+  @_Concurrency.MainActor(unsafe) public func showCampaign(campaignId: Swift.String, propertyId: Swift.Int)
+  @_Concurrency.MainActor(unsafe) public func showAlert(propertyId: Swift.Int, alertId: Swift.String)
+  @_Concurrency.MainActor(unsafe) public func showEmergencyAlert(alertId: Swift.String)
+}
 extension AppTemplate.BaseMapStyle : Swift.Equatable {}
 extension AppTemplate.BaseMapStyle : Swift.Hashable {}
 extension AppTemplate.MapstedMenuItemType : Swift.Equatable {}
