@@ -14,6 +14,7 @@ import MapstedComponentsUI
 @_spi(InternalLocLiveShare) import MapstedLocationShare
 import MapstedMap
 import MapstedMapUi
+import MapstedTopBarNotification
 import MapstedTriggersCore
 import MessageUI
 import SDWebImage
@@ -69,7 +70,6 @@ public struct FirebaseToken {
   public var nameOfGeoJSONStyleAsset: Swift.String
   public var shareInfo: AppTemplate.ShareInfo?
   public func setUpdateVersionPopupDetails(currentAppVersion: Swift.String, appBundleIdentifier: Swift.String, updateNowButtonBgColor: UIKit.UIColor? = nil, updateLaterButtonBgColor: UIKit.UIColor? = nil)
-  public func showDisclaimerPopup(title: Swift.String = "", disclaimer: Swift.String, buttonTitle: Swift.String = "", buttonBgColor: UIKit.UIColor? = nil)
   @objc deinit
 }
 public enum MapstedMenuItemType : Swift.Int {
