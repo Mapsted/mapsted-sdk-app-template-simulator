@@ -9599,84 +9599,84 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24958,
+      "offset": 25213,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24984,
+      "offset": 25239,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25421,
+      "offset": 25676,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25514,
+      "offset": 25769,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26235,
+      "offset": 26490,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26467,
+      "offset": 26722,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26897,
+      "offset": 27152,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26977,
+      "offset": 27232,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27741,
+      "offset": 27996,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27877,
+      "offset": 28132,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "StringLiteral",
-      "offset": 28132,
+      "offset": 28387,
       "length": 8,
       "value": "\"Search\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/PropertyHome\/PropertyHomeViewController.swift",
       "kind": "StringLiteral",
-      "offset": 28271,
+      "offset": 28526,
       "length": 16,
       "value": "\"MultiZoneStore\""
     },
@@ -11390,120 +11390,127 @@
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 19502,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19531,
+      "offset": 20031,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20521,
+      "offset": 21021,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21073,
+      "offset": 21573,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22722,
+      "offset": 23222,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22880,
+      "offset": 23380,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "StringLiteral",
-      "offset": 23526,
+      "offset": 24026,
       "length": 28,
       "value": "\"News List is not found....\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24303,
+      "offset": 24803,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25905,
+      "offset": 26405,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26697,
+      "offset": 27197,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27041,
+      "offset": 27541,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27173,
+      "offset": 27673,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27219,
+      "offset": 27719,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27347,
+      "offset": 27847,
       "length": 92,
       "value": "\"Found home at index: \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27383,
+      "offset": 27883,
       "length": 2,
       "value": "\".. returnining \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27407,
+      "offset": 27907,
       "length": 2,
       "value": "\" at indexOfHome: \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27438,
+      "offset": 27938,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "StringLiteral",
-      "offset": 27574,
+      "offset": 28074,
       "length": 37,
       "value": "\"MapTemplateViewController not found\""
     },
@@ -11517,14 +11524,14 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29305,
+      "offset": 29805,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29546,
+      "offset": 30046,
       "length": 4,
       "value": "true"
     },
@@ -18022,7 +18029,7 @@
       "kind": "StringLiteral",
       "offset": 892,
       "length": 70,
-      "value": "\"https:\/\/positioning.mapsted.com\/v4.2\/api\/MapData\/AcceptedDisclaimer?\""
+      "value": "\"https:\/\/positioning-data.mapsted.com\/api\/MapData\/AcceptedDisclaimer?\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/NetworkUtils.swift",
@@ -21198,784 +21205,791 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1280,
+      "offset": 1333,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1537,
+      "offset": 1590,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2011,
+      "offset": 1957,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2384,
+      "offset": 2330,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2427,
+      "offset": 2373,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3511,
+      "offset": 3474,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3816,
+      "offset": 3779,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4175,
+      "offset": 4138,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4230,
+      "offset": 4193,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4234,
+      "offset": 4197,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4371,
+      "offset": 4334,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4651,
+      "offset": 4614,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 5332,
+      "offset": 6547,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5517,
+      "offset": 6730,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5638,
+      "offset": 6849,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7402,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6530,
+      "offset": 8661,
       "length": 94,
       "value": "\"deeplink: ContainerTopViewController deeplink_url \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6616,
+      "offset": 8747,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6623,
+      "offset": 8754,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7060,
+      "offset": 9191,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7216,
+      "offset": 9347,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7754,
+      "offset": 9885,
       "length": 9,
       "value": "\"showmap\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7788,
+      "offset": 9919,
       "length": 9,
       "value": "\"showmap\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8090,
+      "offset": 10221,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8309,
+      "offset": 10440,
       "length": 10,
       "value": "\"property\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8390,
+      "offset": 10521,
       "length": 10,
       "value": "\"building\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8414,
+      "offset": 10545,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8493,
+      "offset": 10624,
       "length": 8,
       "value": "\"entity\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8515,
+      "offset": 10646,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8577,
+      "offset": 10708,
       "length": 7,
       "value": "\"floor\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8598,
+      "offset": 10729,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8682,
+      "offset": 10813,
       "length": 5,
       "value": "\"tag\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8701,
+      "offset": 10832,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8766,
+      "offset": 10897,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8795,
+      "offset": 10926,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8841,
+      "offset": 10972,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8886,
+      "offset": 11017,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9198,
+      "offset": 11329,
       "length": 3,
       "value": "\"!\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9426,
+      "offset": 11557,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9565,
+      "offset": 11696,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9585,
+      "offset": 11716,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9633,
+      "offset": 11764,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9693,
+      "offset": 11824,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9700,
+      "offset": 11831,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9756,
+      "offset": 11887,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9763,
+      "offset": 11894,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9823,
+      "offset": 11954,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9830,
+      "offset": 11961,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9904,
+      "offset": 12035,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9911,
+      "offset": 12042,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9978,
+      "offset": 12109,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10008,
+      "offset": 12139,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10547,
+      "offset": 12678,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11124,
+      "offset": 13255,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12479,
+      "offset": 14610,
       "length": 14,
       "value": "\"destinations\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "Array",
-      "offset": 12787,
+      "offset": 14918,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16720,
+      "offset": 18851,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16774,
+      "offset": 18905,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16788,
+      "offset": 18919,
       "length": 21,
       "value": "\"routeIsFromDeeplink\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16973,
+      "offset": 19104,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17218,
+      "offset": 19349,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17407,
+      "offset": 19538,
       "length": 9,
       "value": "\"showmap\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17476,
+      "offset": 19607,
       "length": 10,
       "value": "\"property\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17961,
+      "offset": 20092,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "Array",
-      "offset": 18385,
+      "offset": 20516,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18435,
+      "offset": 20566,
       "length": 3,
       "value": "\"!\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19333,
+      "offset": 21464,
       "length": 3,
       "value": "\"!\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19425,
+      "offset": 21556,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19588,
+      "offset": 21719,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19615,
+      "offset": 21746,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19662,
+      "offset": 21793,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19757,
+      "offset": 21888,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19801,
+      "offset": 21932,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19916,
+      "offset": 22047,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19943,
+      "offset": 22074,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19981,
+      "offset": 22112,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20008,
+      "offset": 22139,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20059,
+      "offset": 22190,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20095,
+      "offset": 22226,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20257,
+      "offset": 22388,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20349,
+      "offset": 22480,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20378,
+      "offset": 22509,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20602,
+      "offset": 22733,
       "length": 3,
       "value": "\"!\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20694,
+      "offset": 22825,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20791,
+      "offset": 22922,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20818,
+      "offset": 22949,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20957,
+      "offset": 23088,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21290,
+      "offset": 23421,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "Array",
-      "offset": 21562,
+      "offset": 23693,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21669,
+      "offset": 23800,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21769,
+      "offset": 23900,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21810,
+      "offset": 23941,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21848,
+      "offset": 23979,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22021,
+      "offset": 24152,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22058,
+      "offset": 24189,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 22369,
+      "offset": 24500,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22548,
+      "offset": 24679,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 23231,
+      "offset": 25362,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23506,
+      "offset": 25637,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24118,
+      "offset": 26249,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24158,
+      "offset": 26289,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24188,
+      "offset": 26319,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24870,
+      "offset": 27001,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25234,
+      "offset": 27365,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25563,
+      "offset": 27694,
       "length": 6,
       "value": "\"cell\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 26422,
+      "offset": 28553,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 26582,
+      "offset": 28713,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 26718,
+      "offset": 28849,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27832,
+      "offset": 29963,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27961,
+      "offset": 30092,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 28215,
+      "offset": 30346,
       "length": 32,
       "value": "\"##DT## Processing path \""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "StringLiteral",
-      "offset": 28246,
+      "offset": 30377,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28676,
+      "offset": 30807,
       "length": 5,
       "value": "false"
     },
@@ -27281,84 +27295,84 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4973,
+      "offset": 5158,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5832,
+      "offset": 6017,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6694,
+      "offset": 6879,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6829,
+      "offset": 7014,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7036,
+      "offset": 7221,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7332,
+      "offset": 7517,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8927,
+      "offset": 9112,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9543,
+      "offset": 9728,
       "length": 8,
       "value": "\"Search\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9700,
+      "offset": 9885,
       "length": 14,
       "value": "\"ID_EXPLOREVC\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9800,
+      "offset": 9985,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10385,
+      "offset": 10570,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11976,
+      "offset": 12161,
       "length": 5,
       "value": "false"
     },
