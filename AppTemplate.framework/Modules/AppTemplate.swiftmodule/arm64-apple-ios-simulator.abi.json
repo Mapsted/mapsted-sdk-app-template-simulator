@@ -27252,127 +27252,113 @@
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3046,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3658,
+      "offset": 2903,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3728,
+      "offset": 2973,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4039,
+      "offset": 3284,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4110,
+      "offset": 3355,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4687,
+      "offset": 3932,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5158,
+      "offset": 4403,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6017,
-      "length": 4,
-      "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6879,
+      "offset": 5576,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7014,
+      "offset": 5711,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7221,
+      "offset": 5918,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7517,
+      "offset": 6214,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9112,
+      "offset": 7809,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9728,
+      "offset": 8425,
       "length": 8,
       "value": "\"Search\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9885,
+      "offset": 8582,
       "length": 14,
       "value": "\"ID_EXPLOREVC\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9985,
+      "offset": 8682,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10570,
+      "offset": 9267,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Map\/MapTemplateViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12161,
+      "offset": 10858,
       "length": 5,
       "value": "false"
     },
