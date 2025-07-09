@@ -65,6 +65,10 @@ public struct FirebaseToken {
   }
   public var showWelcomeScreen: Swift.Bool
   public var useGeoJSONLayers: Swift.Bool
+  public var requestPermissionsType: [MapstedCore.PERMISSION_REQUEST_TYPE] {
+    get
+    set
+  }
   public var baseMapStyle: AppTemplate.BaseMapStyle
   public var nameOfGeoJSONStyleAsset: Swift.String
   public var shareInfo: AppTemplate.ShareInfo?
