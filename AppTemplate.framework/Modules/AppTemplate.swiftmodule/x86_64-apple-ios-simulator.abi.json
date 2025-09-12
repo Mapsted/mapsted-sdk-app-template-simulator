@@ -2428,6 +2428,13 @@
       },
       {
         "kind": "Import",
+        "name": "MapstedMapUi",
+        "printedName": "MapstedMapUi",
+        "declKind": "Import",
+        "moduleName": "AppTemplate"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2677,23 +2684,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedCore",
-        "printedName": "MapstedCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AppTemplate",
         "declAttributes": [
@@ -3236,16 +3226,6 @@
             "usr": "s:SY",
             "mangledName": "$sSY"
           }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
         ]
       },
       {
@@ -4013,16 +3993,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4377,16 +4347,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4592,6 +4552,30 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "MapstedMapUi",
+        "printedName": "MapstedMapUi",
+        "declKind": "Import",
+        "moduleName": "AppTemplate",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AppTemplate"
+      },
+      {
+        "kind": "Import",
+        "name": "MapstedCore",
+        "printedName": "MapstedCore",
+        "declKind": "Import",
+        "moduleName": "AppTemplate"
       },
       {
         "kind": "Import",
@@ -4964,30 +4948,6 @@
       },
       {
         "kind": "Import",
-        "name": "MapstedCore",
-        "printedName": "MapstedCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedComponentsCore",
-        "printedName": "MapstedComponentsCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -5000,6 +4960,13 @@
         "kind": "Import",
         "name": "MapstedCore",
         "printedName": "MapstedCore",
+        "declKind": "Import",
+        "moduleName": "AppTemplate"
+      },
+      {
+        "kind": "Import",
+        "name": "MapstedMapUi",
+        "printedName": "MapstedMapUi",
         "declKind": "Import",
         "moduleName": "AppTemplate"
       },
@@ -5762,6 +5729,30 @@
       },
       {
         "kind": "Import",
+        "name": "MapstedMapUi",
+        "printedName": "MapstedMapUi",
+        "declKind": "Import",
+        "moduleName": "AppTemplate",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MapstedCore",
+        "printedName": "MapstedCore",
+        "declKind": "Import",
+        "moduleName": "AppTemplate"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AppTemplate"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -5855,23 +5846,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedCore",
-        "printedName": "MapstedCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
         "name": "MapstedTriggersCore",
         "printedName": "MapstedTriggersCore",
         "declKind": "Import",
@@ -5888,6 +5862,13 @@
         "kind": "Import",
         "name": "MapstedComponentsUI",
         "printedName": "MapstedComponentsUI",
+        "declKind": "Import",
+        "moduleName": "AppTemplate"
+      },
+      {
+        "kind": "Import",
+        "name": "MapstedMapUi",
+        "printedName": "MapstedMapUi",
         "declKind": "Import",
         "moduleName": "AppTemplate"
       },
@@ -6198,40 +6179,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedCore",
-        "printedName": "MapstedCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedComponentsCore",
-        "printedName": "MapstedComponentsCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -6261,58 +6208,6 @@
         "kind": "Import",
         "name": "MapstedCore",
         "printedName": "MapstedCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedComponentsUI",
-        "printedName": "MapstedComponentsUI",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedCore",
-        "printedName": "MapstedCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedAlerts",
-        "printedName": "MapstedAlerts",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedMapUi",
-        "printedName": "MapstedMapUi",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedMap",
-        "printedName": "MapstedMap",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedLocationShare",
-        "printedName": "MapstedLocationShare",
         "declKind": "Import",
         "moduleName": "AppTemplate"
       },
@@ -6541,58 +6436,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedComponentsUI",
-        "printedName": "MapstedComponentsUI",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedCore",
-        "printedName": "MapstedCore",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedAlerts",
-        "printedName": "MapstedAlerts",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedMapUi",
-        "printedName": "MapstedMapUi",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedMap",
-        "printedName": "MapstedMap",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
-        "name": "MapstedLocationShare",
-        "printedName": "MapstedLocationShare",
-        "declKind": "Import",
-        "moduleName": "AppTemplate"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -6605,16 +6448,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "AppTemplate",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "AppTemplate",
         "declAttributes": [
@@ -9244,91 +9077,91 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "Array",
-      "offset": 1705,
+      "offset": 1953,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "Dictionary",
-      "offset": 1784,
+      "offset": 2032,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1817,
+      "offset": 2065,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1850,
+      "offset": 2098,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "Dictionary",
-      "offset": 1920,
+      "offset": 2168,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1954,
+      "offset": 2202,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16748,
+      "offset": 18077,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17123,
+      "offset": 18452,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17194,
+      "offset": 18523,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18905,
+      "offset": 20234,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19582,
+      "offset": 20911,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22034,
+      "offset": 23363,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22586,
+      "offset": 23915,
       "length": 4,
       "value": "true"
     },
@@ -9401,62 +9234,6 @@
       "offset": 515,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/BuildingFavoritesTableViewCell.swift",
-      "kind": "Array",
-      "offset": 607,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/BuildingFavoritesTableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 716,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/BuildingFavoritesTableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 761,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/BuildingFavoritesTableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 818,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/BuildingFavoritesTableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 827,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/BuildingFavoritesTableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 838,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/BuildingFavoritesTableViewCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 848,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/BuildingFavoritesTableViewCell.swift",
-      "kind": "StringLiteral",
-      "offset": 897,
-      "length": 15,
-      "value": "\"default_image\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/Utilities\/MapstedMenu\/MapstedMenuItem.swift",
@@ -12905,14 +12682,14 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Alerts\/ExploresTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5925,
+      "offset": 6627,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Alerts\/ExploresTableViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5840,
+      "offset": 6542,
       "length": 2,
       "value": "-1"
     },
@@ -13094,140 +12871,140 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 1548,
+      "offset": 1568,
       "length": 25,
       "value": "\"DEFAULT_CELL_DIENTIFIER\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "Array",
-      "offset": 1677,
+      "offset": 1697,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "BooleanLiteral",
-      "offset": 1806,
+      "offset": 1826,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "BooleanLiteral",
-      "offset": 1893,
+      "offset": 1913,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "BooleanLiteral",
-      "offset": 1841,
+      "offset": 1861,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 2156,
+      "offset": 2176,
       "length": 24,
       "value": "\"Collapse Building list\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 2230,
+      "offset": 2250,
       "length": 22,
       "value": "\"Expand Building list\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "BooleanLiteral",
-      "offset": 1929,
+      "offset": 1949,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "IntegerLiteral",
-      "offset": 2732,
+      "offset": 2752,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 2830,
+      "offset": 2850,
       "length": 15,
       "value": "\"icon_collapse\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 2903,
+      "offset": 2923,
       "length": 13,
       "value": "\"icon_expand\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "IntegerLiteral",
-      "offset": 4727,
+      "offset": 4747,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "IntegerLiteral",
-      "offset": 4810,
+      "offset": 4830,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "BooleanLiteral",
-      "offset": 4980,
+      "offset": 5000,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 5195,
+      "offset": 5215,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "BooleanLiteral",
-      "offset": 5255,
+      "offset": 5275,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 5375,
+      "offset": 5395,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 5395,
+      "offset": 5415,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "IntegerLiteral",
-      "offset": 5517,
+      "offset": 5537,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/CategoryLegacyCode\/Store\/StoreRow.swift",
       "kind": "StringLiteral",
-      "offset": 5724,
+      "offset": 5744,
       "length": 2,
       "value": "\"\""
     },
@@ -13451,84 +13228,84 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 889,
+      "offset": 909,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "StringLiteral",
-      "offset": 961,
+      "offset": 981,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 987,
+      "offset": 1007,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "Dictionary",
-      "offset": 1038,
+      "offset": 1058,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1262,
+      "offset": 1282,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1293,
+      "offset": 1313,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "Array",
-      "offset": 1371,
+      "offset": 1391,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "Array",
-      "offset": 1580,
+      "offset": 1600,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "Dictionary",
-      "offset": 1718,
+      "offset": 1738,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1764,
+      "offset": 1784,
       "length": 3,
       "value": "240"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11804,
+      "offset": 11824,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/HomeSearchVC\/HomeSearchExploreVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 11692,
+      "offset": 11712,
       "length": 2,
       "value": "-1"
     },
@@ -14807,90 +14584,6 @@
       "value": "2"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 335,
-      "length": 10,
-      "value": "\"storeRow\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 583,
-      "length": 4,
-      "value": "40.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "Dictionary",
-      "offset": 3885,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4031,
-      "length": 3,
-      "value": "217"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 4035,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4049,
-      "length": 3,
-      "value": "217"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 4053,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4066,
-      "length": 3,
-      "value": "217"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 4070,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4084,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4249,
-      "length": 2,
-      "value": "-1"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/HelpMeFindTableViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4164,
-      "length": 2,
-      "value": "-1"
-    },
-    {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/ViewModel\/PropertyHomeViewModel.swift",
       "kind": "Array",
       "offset": 318,
@@ -15122,41 +14815,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Menu\/MenuViewController.swift",
-      "kind": "Array",
-      "offset": 378,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Menu\/MenuViewController.swift",
-      "kind": "Dictionary",
-      "offset": 419,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Menu\/MenuViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 476,
-      "length": 2,
-      "value": "44"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Menu\/MenuViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 559,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/Menu\/MenuViewController.swift",
-      "kind": "Array",
-      "offset": 648,
-      "length": 2,
-      "value": "[]"
-    },
-    {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/Model\/PropertyHome\/Model\/CampaignModel.swift",
       "kind": "StringLiteral",
       "offset": 165,
@@ -15202,13 +14860,6 @@
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/Model\/PropertyHome\/Model\/CampaignModel.swift",
       "kind": "StringLiteral",
       "offset": 417,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/Favorites\/FavoritableWithImageTitleDescription.swift",
-      "kind": "StringLiteral",
-      "offset": 528,
       "length": 2,
       "value": "\"\""
     },
