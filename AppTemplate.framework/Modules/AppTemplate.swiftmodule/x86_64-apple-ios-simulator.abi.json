@@ -13340,14 +13340,14 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/MultiZoneStoreViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1148,
+      "offset": 1240,
       "length": 10,
       "value": "\"reuse_id\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/LegacyCode\/MultiZoneStoreViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8856,
+      "offset": 7832,
       "length": 2,
       "value": "\"\""
     },
