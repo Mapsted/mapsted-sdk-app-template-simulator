@@ -82,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SVtTggWH1qIcBCBa0G+mllmSLDk=
+		drKF516mY7vTjlOgUehf+bO54bc=
 		</data>
 		<key>InfoScreenViewController.nib</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		CXE1JhxFHAg3Lm+9V6qTN0QYxUw=
+		WaVt38WL4O3WaO0MyU9prF9Wxi0=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		/Nlq/JNyi6HGFmmuPAs1xJAtJ+Y=
+		qySD6wJ3JMvt9AgXCcAsLEIEvNc=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Mw7r6SqgrxE9vkgE1yM7aEwAAH4=
+		bVSJXnM8e6P/1HDolebQKzyAL04=
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>Modules/AppTemplate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+4Tg2lcvI/Dd2XGplaY2bRzLhgU=
+		P4sEfDEE/ZH3MiaxiA7kfiWhvbU=
 		</data>
 		<key>MultiStoreHeaderView.nib</key>
 		<data>
@@ -865,14 +865,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			htc4ysKy3JpdZtgHF0NV0a5H7dH32uH+k5NVd7mz/jw=
+			HyzaGyzCwezaGNejfD0fxoFemsKdIXgcGTHr2JbQiG4=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DlBR3++634toIGUFMFi0SyfIN09vff2fkpp4kz5oL9M=
+			MUDB2K/IUjLzbmftqELz/R4ajBHvs72WscGurgPh618=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -907,7 +907,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rTV2JN0lh0t2Wq6oa444mrfHzxgBolw4Nb0NqMpx7j8=
+			yoRAz62XusmytmHsNLeOj7uwHzFYq0RUJ0jYlGPWlig=
 			</data>
 		</dict>
 		<key>Modules/AppTemplate.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -942,7 +942,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hKYvW4fTBa/I4FsdfSV7ThmaBTPo8C0cUZ53ph08fQQ=
+			aDKPYAjjIISz1hO/ouewg800n7o9N+XNW88Tm7QCUfA=
 			</data>
 		</dict>
 		<key>MultiStoreHeaderView.nib</key>
