@@ -9154,14 +9154,14 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23363,
+      "offset": 24635,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/CustomTabBar\/CustomTabBarViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23915,
+      "offset": 25187,
       "length": 4,
       "value": "true"
     },
@@ -13182,6 +13182,13 @@
       "offset": 732,
       "length": 2,
       "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/MainScreen(PropertyList)\/LaunchViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 833,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/View\/Classes\/ContainerTopViewController.swift",
