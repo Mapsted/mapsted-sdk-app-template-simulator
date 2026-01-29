@@ -14739,8 +14739,15 @@
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/Utilities\/SessionDetails.swift",
+      "kind": "BooleanLiteral",
+      "offset": 407,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/app-template-lamda\/app-template\/Utilities\/SessionDetails.swift",
       "kind": "StringLiteral",
-      "offset": 401,
+      "offset": 443,
       "length": 2,
       "value": "\"\""
     },
