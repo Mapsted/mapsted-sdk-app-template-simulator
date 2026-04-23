@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AppTemplate
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Osize -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name AppTemplate
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
 import CoreBluetooth
 import CoreData
 import DeveloperToolsSupport
@@ -41,7 +42,9 @@ public enum BaseMapStyle {
   }
 }
 public struct ShareInfo {
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(headerText: Swift.String, bodyText: Swift.String, storelink_iOS: Swift.String, storeLink_Android: Swift.String, storeLink_Universal: Swift.String? = nil)
+  #endif
 }
 public struct FirebaseToken {
   public let token: Swift.String
@@ -50,10 +53,12 @@ public struct FirebaseToken {
 }
 @_hasMissingDesignatedInitializers public class AppTemplateParams {
   public static let shared: AppTemplate.AppTemplateParams
+  #if compiler(>=5.3) && $NonescapableTypes
   public var menuOptions: AppTemplate.MapstedMenu? {
     get
     set
   }
+  #endif
   public var splashScreenInfo: AppTemplate.SplashScreenInfo?
   public var requireClientLogin: Swift.Bool
   public var enableUserProfiles: Swift.Bool
@@ -72,7 +77,9 @@ public struct FirebaseToken {
   public var baseMapStyle: AppTemplate.BaseMapStyle
   public var nameOfGeoJSONStyleAsset: Swift.String
   public var shareInfo: AppTemplate.ShareInfo?
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setUpdateVersionPopupDetails(currentAppVersion: Swift.String, appBundleIdentifier: Swift.String, updateNowButtonBgColor: UIKit.UIColor? = nil, updateLaterButtonBgColor: UIKit.UIColor? = nil)
+  #endif
   @objc deinit
 }
 public enum MapstedMenuItemType : Swift.Int {
@@ -85,7 +92,9 @@ public enum MapstedMenuItemType : Swift.Int {
   case NewsFeed
   case Menu
   case Custom
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
@@ -95,8 +104,12 @@ public enum MapstedMenuItemType : Swift.Int {
   @_Concurrency.MainActor @preconcurrency public static func instantiateViewController() -> AppTemplate.SplashScreenPermissionViewController
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency open func getBottomMenu() -> AppTemplate.MapstedMenu
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 extension AppTemplate.SplashScreenPermissionViewController : MapstedMapUi.MapstedPermissionsRequestVCDelegate {
@@ -113,14 +126,22 @@ extension Swift.String : Swift.Error {
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class ComCodeViewController : UIKit.UIViewController {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidLoad()
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class MapstedMenu {
   public static func builder() -> AppTemplate.MapstedMenu
+  #if compiler(>=5.3) && $NonescapableTypes
   public func addItem(menuType: AppTemplate.MapstedMenuItemType, icon: UIKit.UIImage? = nil, name: Swift.String? = nil) -> AppTemplate.MapstedMenu
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setFallbackForBuilding(menuType: AppTemplate.MapstedMenuItemType, icon: UIKit.UIImage? = nil, name: Swift.String? = nil) -> AppTemplate.MapstedMenu
+  #endif
   public func addCustomItem(icon: UIKit.UIImage, name: Swift.String, providerView: UIKit.UIViewController) -> AppTemplate.MapstedMenu
   public func build() -> AppTemplate.MapstedMenu
   @objc deinit
@@ -129,16 +150,24 @@ extension Swift.String : Swift.Error {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidDisappear(_ animated: Swift.Bool)
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 extension AppTemplate.LaunchViewController : MapstedComponentsUI.PropertiesListViewControllerDelegate {
   @_Concurrency.MainActor @preconcurrency public func selectProperty(propertyInfo: MapstedCore.PropertyInfo)
 }
 extension AppTemplate.LaunchViewController : MapstedCore.MNDeepLinkDelegate {
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency public func processDeepLink(uri: Foundation.URL, completion: ((Swift.Bool) -> Swift.Void)?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency public func processDeepLink(path: Swift.String, params: [Foundation.URLQueryItem]?, completion: ((Swift.Bool) -> Swift.Void)?)
+  #endif
 }
 extension AppTemplate.LaunchViewController : MapstedTriggersCore.MapstedNotificationDelegate {
   @_Concurrency.MainActor @preconcurrency public func navigateToMap(homeEntities: [MapstedCore.HomeEntity])
@@ -149,25 +178,35 @@ extension AppTemplate.LaunchViewController : MapstedTriggersCore.MarketingBanner
   @_Concurrency.MainActor @preconcurrency public func showAlert(propertyId: Swift.Int, alertId: Swift.String)
   @_Concurrency.MainActor @preconcurrency public func showEmergencyAlert(alertId: Swift.String)
 }
-@objc @_inheritsConvenienceInitializers public class DisclaimerMessage : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+public typealias DisclaimerMessageCoreDataClassSet = Foundation.NSSet
+@objc @_inheritsConvenienceInitializers nonisolated public class DisclaimerMessage : CoreData.NSManagedObject {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc override nonisolated dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  #endif
   @objc deinit
 }
+public typealias DisclaimerMessageCoreDataPropertiesSet = Foundation.NSSet
 extension AppTemplate.DisclaimerMessage {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<AppTemplate.DisclaimerMessage>
-  @objc @NSManaged dynamic public var customMessage: Swift.String? {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc @NSManaged nonisolated dynamic public var customMessage: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var messageAfter: Swift.String? {
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc @NSManaged nonisolated dynamic public var messageAfter: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var messageBefore: Swift.String? {
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc @NSManaged nonisolated dynamic public var messageBefore: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var messageId: Swift.Int32 {
+  #endif
+  @objc @NSManaged nonisolated dynamic public var messageId: Swift.Int32 {
     @objc get
     @objc set
   }
@@ -175,25 +214,29 @@ extension AppTemplate.DisclaimerMessage {
 extension AppTemplate.DisclaimerMessage : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
-@objc @_inheritsConvenienceInitializers public class PropertyMessageMap : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+public typealias PropertyMessageMapCoreDataClassSet = Foundation.NSSet
+@objc @_inheritsConvenienceInitializers nonisolated public class PropertyMessageMap : CoreData.NSManagedObject {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc override nonisolated dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  #endif
   @objc deinit
 }
+public typealias PropertyMessageMapCoreDataPropertiesSet = Foundation.NSSet
 extension AppTemplate.PropertyMessageMap {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<AppTemplate.PropertyMessageMap>
-  @objc @NSManaged dynamic public var isShown: Swift.Bool {
+  @objc @NSManaged nonisolated dynamic public var isShown: Swift.Bool {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var isSyncedWithServer: Swift.Bool {
+  @objc @NSManaged nonisolated dynamic public var isSyncedWithServer: Swift.Bool {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var messageId: Swift.Int32 {
+  @objc @NSManaged nonisolated dynamic public var messageId: Swift.Int32 {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var propertyId: Swift.Int32 {
+  @objc @NSManaged nonisolated dynamic public var propertyId: Swift.Int32 {
     @objc get
     @objc set
   }
@@ -201,6 +244,8 @@ extension AppTemplate.PropertyMessageMap {
 extension AppTemplate.PropertyMessageMap : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
+public typealias databaseFoundationFrameworkSet = Foundation.NSSet
+public typealias databaseCoreDataFrameworkManagedObject = CoreData.NSManagedObject
 extension AppTemplate.BaseMapStyle : Swift.Equatable {}
 extension AppTemplate.BaseMapStyle : Swift.Hashable {}
 extension AppTemplate.MapstedMenuItemType : Swift.Equatable {}
